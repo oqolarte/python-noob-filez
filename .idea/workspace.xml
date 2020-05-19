@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="432e9c58-55a5-4c2a-b31a-264a9a514746" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9VPk1MgFZYwlj94OKFTC1bnC6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex13">
+    <configuration name="ch01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="practice01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phoneAndEmail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phoneAndEmail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex13" />
+        <item itemvalue="Python.ex12" />
+        <item itemvalue="Python.ex11" />
+        <item itemvalue="Python.fibo" />
+        <item itemvalue="Python.phoneAndEmail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432e9c58-55a5-4c2a-b31a-264a9a514746" name="Default Changelist" comment="" />
+      <created>1578561779715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578561779715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="61" width="810" height="681" key="#Updates" timestamp="1584154157890">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="61" width="810" height="681" key="#Updates/0.27.1366.741@0.27.1366.741" timestamp="1584154157890" />
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578884812160">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1578884812160" />
+    <state x="402" y="203" width="562" height="393" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584944461618">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="402" y="203" width="562" height="393" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1584944461618" />
+    <state x="366" y="127" width="634" height="545" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584677267103">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="366" y="127" width="634" height="545" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1584677267103" />
+    <state width="652" height="226" key="GridCell.Tab.0.bottom" timestamp="1586247200346">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1586247200346" />
+    <state width="652" height="226" key="GridCell.Tab.0.center" timestamp="1586247200346">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1586247200346" />
+    <state width="652" height="226" key="GridCell.Tab.0.left" timestamp="1586247200345">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1586247200345" />
+    <state width="652" height="226" key="GridCell.Tab.0.right" timestamp="1586247200346">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1586247200346" />
+    <state width="1345" height="221" key="GridCell.Tab.1.bottom" timestamp="1585194692448">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="221" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585194692448" />
+    <state width="1345" height="221" key="GridCell.Tab.1.center" timestamp="1585194692447">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="221" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1585194692447" />
+    <state width="1345" height="221" key="GridCell.Tab.1.left" timestamp="1585194692447">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="221" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1585194692447" />
+    <state width="1345" height="221" key="GridCell.Tab.1.right" timestamp="1585194692447">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1345" height="221" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1585194692447" />
+    <state x="329" y="34" width="1022" height="734" key="SettingsEditor" timestamp="1585113783197">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="329" y="34" width="1022" height="734" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1585113783197" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586242946332">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1586242946332" />
+    <state x="688" y="90" width="672" height="619" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586245033653">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="688" y="90" width="672" height="619" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1586245033653" />
+    <state x="237" y="136" width="882" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578884826143">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="237" y="136" width="882" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1366.741@0.27.1366.741" timestamp="1578884826143" />
+    <state x="783" y="127" width="483" height="541" key="dock-window-1" timestamp="1583374302401">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="783" y="127" width="483" height="541" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1583374302401" />
+    <state x="783" y="127" width="483" height="541" key="dock-window-2" timestamp="1583374302401">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="783" y="127" width="483" height="541" key="dock-window-2/0.27.1366.741@0.27.1366.741" timestamp="1583374302401" />
+    <state x="427" y="42" width="511" height="714" key="refactoring.ChangeSignatureDialog" timestamp="1584941097836">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="427" y="42" width="511" height="714" key="refactoring.ChangeSignatureDialog/0.27.1366.741@0.27.1366.741" timestamp="1584941097836" />
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585210047812">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="687" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1585210047812" />
+  </component>
+</project>
