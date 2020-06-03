@@ -1,10 +1,9 @@
-def collatz(number):
-    while number != 1:
-        if number % 2 == 0:
-            number = number // 2
-        elif number % 2 == 1:
-            number = 3 * number + 1
-        print(number)
+def collatz(n):
+    while n != 1:
+        if n % 2 == 0:
+            n = n // 2
+        elif n % 2 == 1:
+            n = 3 * n + 1
+        print(n)
 
-number = int(input('Enter number: '))
-collatz(number)
+collatz(int(input('Enter positive integer: ')))
