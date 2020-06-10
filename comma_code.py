@@ -4,9 +4,10 @@ def commaCode(spam):
                 while i != len(spam) - 1:
                         print(spam[i], end=', ')
                         i += 1
-                print('and, ', end=str(spam[-1]))
+                print('and ', end=str(spam[-1]))
         except IndexError:
                 print('List is empty')
+print('commaCode puts together the input string with comma')
 
 spam = []
 while True:

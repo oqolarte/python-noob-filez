@@ -1,6 +1,8 @@
+
 bdays = {'Isya':'16 June', 'Mads':'9 Jan', 'Charles':'3 Nov'}
+print(bdays)
 while True:
-    name = input('Enter a name (blank to quit): ')
+    name = input('\nEnter a name (blank to quit): ')
     if name == '':
         break
     if name in bdays:
