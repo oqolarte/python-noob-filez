@@ -9,4 +9,4 @@ def mid(text):
     else:
         print(' "" ')
 
-mid('The quick brown fox jumps over the lazy dog')
+mid('The quick brown fox jumps over the lazy dog') #test case

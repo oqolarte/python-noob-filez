@@ -1,2 +1,0 @@
-a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
-print([b for b in a if b < 10]) #this is a one-line code that instead of printing the elements that are less than 10 one by one, a new list is created and printed.

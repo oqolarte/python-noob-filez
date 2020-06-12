@@ -6,12 +6,13 @@
 # For example, calling capital_indexes("HeLlO") should return the list [0, 2, 4].
 
 def capital_indexes(text):
-   new_list = []
+   index_list = []
+   item_list = []
    for index, item in enumerate(text):
        if item.isupper():
-           new_list.append(index)
-       else:
-           pass
-   print(new_list)
+           index_list.append(index)
+           item_list.append(item)
+   print('The capitalized letters are: ', item_list)
+   print('And their indices, respectively: ',index_list)
 
-capital_indexes('sUpErcaLifrAgiListIceXpiAlijEjeMon')
+capital_indexes('sUpErcaLifrAgiListIceXpiAlijEjeMon') # Test Case
