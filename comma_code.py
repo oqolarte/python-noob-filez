@@ -7,7 +7,7 @@ def commaCode(spam):
                 print('and ', end=str(spam[-1]))
         except IndexError:
                 print('List is empty')
-print('commaCode puts together the input string with comma')
+print('This commaCode puts together the input string with comma')
 
 spam = []
 while True:

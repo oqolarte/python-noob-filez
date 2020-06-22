@@ -7,4 +7,4 @@ def rev_string(string):
 	print(reversed)
 	
 
-print(rev_string(str(input('Type a string and have its reverse printed out: '))))
+rev_string(str(input('Type a string and have its reverse printed out: ')))
