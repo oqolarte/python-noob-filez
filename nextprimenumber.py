@@ -12,8 +12,6 @@ while True:
 	print('Do you want to know the next prime number? y/n')
 	response = str(input(''))
 	if response == 'y': # start of Yes block
-		for i in apsf:
-			
 		pass
 	elif response == 'n': # start of No block
 		print('\nDone.')

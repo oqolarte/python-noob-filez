@@ -6,12 +6,12 @@
 import math, os, sys
 
 def square_areas_difference(radius): #radius is an integer
-	print(2 * r ** 2)	
+	print(2 * radius ** 2)	
 
 
 while True:
-	r = int(input('Type an integer Radius, or blank to quit: '))
-	if r == '':
-		break
+	x = input('Type an integer Radius, or blank to quit: ')
+	if x == '':
+            sys.exit()
 	else:
-		square_areas_difference(r)
+		square_areas_difference(int(x))

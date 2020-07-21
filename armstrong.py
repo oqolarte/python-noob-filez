@@ -13,6 +13,7 @@ def arm_process(a): # a is a list of digits of an integer
 
 def armstrong(n):
 	if 0 <= n <= 9:
+		return True
 		print(n,"is an Armstrong number. All single digits are.")
 	elif n>= 10:
 		digits = [int(x) for x in str(n)]
@@ -22,10 +23,31 @@ def armstrong(n):
 		else:
 			# print(n,"is not narcissistic.")
 			return False
-		
-print('This program checks whether an integer is an Armstrong number.\n')
-# armstrong(int(input('Type an integer: ')))
+			
+def arm_proof(n):
+	digits = [int(x) for x in str(n)]
+	print('PROOF:')
+	print(n,'has',len(digits),'digit(s).')
+	print(n, '= ', end='')
+	i = 0
+	while i != len(digits) - 1:
+		print(digits[i],'^',len(digits), end=' + ')
+		i += 1
+	print(digits[-1],'^',len(digits))
+	print(n, '= ', end='')
+	j = 0
+	while j != len(digits) - 1:
+		print(digits[j] ** len(digits), end=' + ')
+		j += 1
+	print(digits[-1]** len(digits))
+				
 
-for x in range(10_000_001):
-	if armstrong(x) == True:
-		print(x)
+print('This program checks whether an integer is an Armstrong number.\n')
+num = int(input('Type an integer: '))
+if armstrong(num) == True:
+	print(num,'is an Armstrong number.')
+	arm_proof(num)
+else:
+	print('No')
+
+

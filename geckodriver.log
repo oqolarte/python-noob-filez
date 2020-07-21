@@ -15,3 +15,12 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: 
 JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
 1591365976754	Marionette	INFO	Stopped listening on port 33013
+1593764836702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNHr4QS"
+1593764840324	Marionette	INFO	Listening on port 44559
+1593764840423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 293: TypeError: $(...).uls is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1593764852287	Marionette	INFO	Stopped listening on port 44559
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
