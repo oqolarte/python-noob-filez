@@ -3,11 +3,6 @@
 #
 #  comparing_dics.py
 #  
-#  
-
-
-
-
 def dict_compare(d1, d2):
 	d1_keys = set(d1.keys())
 	d2_keys = set(d2.keys())
